@@ -1,0 +1,8 @@
+{
+  "name": "personal-skills",
+  "version": "1.0.0",
+  "description": "Personal productivity skills: interview prep (repo review, feature impl, debugging, system design) and daily tools (news summary, Google Calendar).",
+  "author": {
+    "name": "arthur.zhang"
+  }
+}
